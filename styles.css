@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+
+body
+{
+    padding: 5px;
+}
+
+.buttons button
+{
+    margin: 5px 5px 5px 0;
+}
+
+.button button
+{
+    width: 22.7em;
+}
+
+#additionalinfo
+{
+    border: 1px solid black;
+    width: 18em;
+    height: 2em;
+    padding: 5px;
+    text-align: center;
+    margin: 5px 0 5px 0;
+}
